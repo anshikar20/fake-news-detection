@@ -14,8 +14,8 @@ import streamlit as st
 import joblib
 from preprocess import preprocess
 
-model = joblib.load("model.pkl")
-vectorizer = joblib.load("vectorizer.pkl")
+model = joblib.load("app1/model.pkl")
+vectorizer = joblib.load("app1/vectorizer.pkl")
 
 st.title("📰 Fake News Detection")
 tweet = st.text_area("Enter a tweet")
