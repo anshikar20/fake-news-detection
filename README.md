@@ -1,3 +1,3 @@
 # fake-news-detection
 
-download streamlit, 
+App link : [link to app](https://fake-news-detectiongit-au5wshabucmpappffrzrsrv.streamlit.app/)
